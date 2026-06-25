@@ -1,25 +1,72 @@
-# Vaga Lúmen — Laboratório Itinerante de Permacultura
+# 💰 Vaga Lúmen — Proposta FINEP Mais Inovação
 
-**Proposta FINEP Mais Inovação — Rodada 2**  
-**Linhas:** 3 — Água e Esgoto / 4 — Moradia e Espaços Públicos Sustentáveis  
-**Grupo:** ECOSALA — Núcleo Ribeirão Preto / Campinas
+## 🧭 O que é este repositório?
+
+Aqui fica a **proposta completa** para o edital **FINEP Mais Inovação — Rodada 2**
+(Economia Circular e Cidades Sustentáveis), modalidade Subvenção Econômica.
+
+**Projeto:** Vaga Lúmen — Laboratório Itinerante de Permacultura, Saneamento Descentralizado
+e Moradia Modular Sustentável.
+
+**👥 Pra quem?** Grupo ECOSALA, avaliadores FINEP, parceiros institucionais.
 
 ---
 
-## Documentos da Proposta
+## 📂 O que tem aqui
 
-| Documento | Descrição |
-|---|---|
-| [Proposta Final (formato submissão)](proposta-final-vaga-lumen.md) | Texto completo para submissão, com limites de caracteres |
-| [Regulamento FINEP](regulamento-finep-mais-inovacao.md) | Regulamento oficial convertido para .md |
-| [Plano de Correção](plano-correcao-regulamento.md) | Falhas identificadas vs. regulamento |
-| [Reavaliação TRL](reavaliacao-trl-evidencias.md) | Evidências científicas para reclassificação TRL |
-| [Compósitos Alternativos](compositos-alternativos-embarcacao.md) | Técnicas construtivas para embarcação |
-| [Bibliografia ABNT](bibliografia-abnt.md) | Referências formatadas |
-| [Análise de Lacunas](analise-lacunas-honesta.md) | TRL real de cada subsistema |
+| Arquivo | O que é | Onde acessar |
+|---|---|---|
+| `proposta-final-vaga-lumen.md` | **Proposta pronta para submissão** (com limites de caracteres) | 📄 GitHub |
+| `regulamento-finep-mais-inovacao.md` | Regulamento oficial convertido para .md | 📄 GitHub |
+| `plano-correcao-regulamento.md` | O que falta para a proposta ficar dentro do regulamento | 📄 GitHub |
+| `reavaliacao-trl-evidencias.md` | TRL de cada tecnologia com artigos científicos (DOIs) | 📄 GitHub |
+| `compositos-alternativos-embarcacao.md` | Técnicas para construir a embarcação (bombonas, rabetas, solar) | 📄 GitHub |
+| `analise-lacunas-honesta.md` | TRL real de cada subsistema (sem inflar) | 📄 GitHub |
+| `bibliografia-abnt.md` | Todas as referências em formato ABNT | 📄 GitHub |
+| `curatoria-imagens-andre.md` | Análise das imagens de André Blanco | 📄 GitHub |
+| `referencias-cientificas.md` | Artigos científicos sobre captação de água | 📄 GitHub |
+| `relatorio-alteracoes.md` | Histórico de mudanças do projeto | 📄 GitHub |
+| `TRIAGEM-BRUTA/` | PDFs originais e .docx (NÃO versionado) | 📁 Pasta local |
 
-## Links Externos
+> 📄 = abre no navegador pelo GitHub | 📁 = só no computador de quem tem o repositório
 
-- [Fichas do Acervo Científico (ECOSALA)](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
-- [Acervo MQTF (protocolos abertos)](https://github.com/takwaratec/Mulheres-Tecem-Amazonia)
-- [Plataforma Juventude Solidária](https://github.com/takwaratec/plataforma-juventude-solidaria-2026)
+---
+
+## 🌐 Acessar documentos
+
+### Pelo GitHub (visualização direta)
+1. Clique no arquivo desejado (ex: `proposta-final-vaga-lumen.md`)
+2. O conteúdo aparece formatado automaticamente
+3. Para baixar: clique em **"Raw"** e salve a página
+
+### Documentos complementares em outros repositórios
+- **Fichas científicas detalhadas:** [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
+- **Fichas dos 11 membros ECOSALA:** [mesmo link](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
+
+---
+
+## 📋 Check-list de submissão
+
+- [ ] **Empresa proponente definida** (CNPJ) — ⬜ Pendente
+- [ ] **Contrapartida calculada** — ⬜ Pendente
+- [ ] **Orçamento >= R$ 5.000.000** — ⬜ Pendente (atual: R$ 3.816.000)
+- [ ] **TRL de partida >= 3** — ✅ OK (reavaliado com evidências)
+- [ ] **Cartas de anuência das ICTs** — ⬜ Pendente
+- [ ] **Cartas de anuência dos territórios** — ⬜ Pendente
+- [ ] **Anexo 3 — Declaração de ações coletivas** — ⬜ Pendente
+- [ ] **Anexo 4 — Declaração ambiental** — ⬜ Pendente
+- [ ] **Anexo 5 — Metodologia TRL** — ⬜ Pendente
+- [ ] **Vídeo de 5 minutos** — ⬜ Pendente
+
+---
+
+## 🤖 Sobre este repositório
+
+- **Foco:** Exclusivo para a proposta FINEP
+- **Público:** Avaliadores, financiadores e equipe técnica
+- **Atualização:** README atualizado sempre que um novo documento é adicionado ou o check-list muda
+
+## 🔗 Repositórios irmãos
+
+- **ECOSALA** (coletivo): [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA)
+- **Juventude Solidária** (MST): [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026)
