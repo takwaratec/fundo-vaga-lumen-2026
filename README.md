@@ -26,7 +26,8 @@ e Moradia Modular Sustentável.
 | `curatoria-imagens-andre.md` | Análise das imagens de André Blanco | 📄 GitHub |
 | `referencias-cientificas.md` | Artigos científicos sobre captação de água | 📄 GitHub |
 | `relatorio-alteracoes.md` | Histórico de mudanças do projeto | 📄 GitHub |
-| `TRIAGEM-BRUTA/` | PDFs originais e .docx (NÃO versionado) | 📁 Pasta local |
+| `docs/projeto-vaga-lumen-andre-blanco.md` | Projeto original de Andre Blanco (convertido de .docx) | 📄 GitHub |
+| `docs/proposta-financiadores-andre-blanco.md` | Proposta para financiadores por Andre Blanco (convertido de .docx) | 📄 GitHub |
 
 > 📄 = abre no navegador pelo GitHub | 📁 = só no computador de quem tem o repositório
 
