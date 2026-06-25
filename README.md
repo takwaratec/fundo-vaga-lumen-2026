@@ -14,35 +14,32 @@ e Moradia Modular Sustentável.
 
 ## 📂 O que tem aqui
 
-| Arquivo | O que é | Onde acessar |
+| Arquivo | O que é | Acessar |
 |---|---|---|
-| `proposta-final-vaga-lumen.md` | **Proposta pronta para submissão** (com limites de caracteres) | 📄 GitHub |
-| `regulamento-finep-mais-inovacao.md` | Regulamento oficial convertido para .md | 📄 GitHub |
-| `plano-correcao-regulamento.md` | O que falta para a proposta ficar dentro do regulamento | 📄 GitHub |
-| `reavaliacao-trl-evidencias.md` | TRL de cada tecnologia com artigos científicos (DOIs) | 📄 GitHub |
-| `compositos-alternativos-embarcacao.md` | Técnicas para construir a embarcação (bombonas, rabetas, solar) | 📄 GitHub |
-| `analise-lacunas-honesta.md` | TRL real de cada subsistema (sem inflar) | 📄 GitHub |
-| `bibliografia-abnt.md` | Todas as referências em formato ABNT | 📄 GitHub |
-| `curatoria-imagens-andre.md` | Análise das imagens de André Blanco | 📄 GitHub |
-| `referencias-cientificas.md` | Artigos científicos sobre captação de água | 📄 GitHub |
-| `relatorio-alteracoes.md` | Histórico de mudanças do projeto | 📄 GitHub |
-| `docs/projeto-vaga-lumen-andre-blanco.md` | Projeto original de Andre Blanco (convertido de .docx) | 📄 GitHub |
-| `docs/proposta-financiadores-andre-blanco.md` | Proposta para financiadores por Andre Blanco (convertido de .docx) | 📄 GitHub |
+| `proposta-final-vaga-lumen.md` | **Proposta pronta para submissão** (com limites de caracteres) | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/proposta-final-vaga-lumen.md) |
+| `regulamento-finep-mais-inovacao.md` | Regulamento oficial convertido para .md | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/regulamento-finep-mais-inovacao.md) |
+| `plano-correcao-regulamento.md` | O que falta para a proposta ficar dentro do regulamento | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/plano-correcao-regulamento.md) |
+| `reavaliacao-trl-evidencias.md` | TRL de cada tecnologia com artigos científicos (DOIs) | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/reavaliacao-trl-evidencias.md) |
+| `compositos-alternativos-embarcacao.md` | Técnicas para construir a embarcação (bombonas, rabetas, solar) | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/compositos-alternativos-embarcacao.md) |
+| `analise-lacunas-honesta.md` | TRL real de cada subsistema (sem inflar) | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/analise-lacunas-honesta.md) |
+| `bibliografia-abnt.md` | Todas as referências em formato ABNT | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/bibliografia-abnt.md) |
+| `curatoria-imagens-andre.md` | Análise das imagens de André Blanco | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/curatoria-imagens-andre.md) |
+| `referencias-cientificas.md` | Artigos científicos sobre captação de água | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/referencias-cientificas.md) |
+| `relatorio-alteracoes.md` | Histórico de mudanças do projeto | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/relatorio-alteracoes.md) |
+| `docs/projeto-vaga-lumen-andre-blanco.md` | Projeto original de André Blanco (convertido de .docx) | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/docs/projeto-vaga-lumen-andre-blanco.md) |
+| `docs/proposta-financiadores-andre-blanco.md` | Proposta para financiadores por André Blanco (convertido de .docx) | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/docs/proposta-financiadores-andre-blanco.md) |
 
-> 📄 = abre no navegador pelo GitHub | 📁 = só no computador de quem tem o repositório
+> 📄 = abre no navegador pelo GitHub
 
 ---
 
-## 🌐 Acessar documentos
+## 🌐 Acessar documentos complementares
 
-### Pelo GitHub (visualização direta)
-1. Clique no arquivo desejado (ex: `proposta-final-vaga-lumen.md`)
-2. O conteúdo aparece formatado automaticamente
-3. Para baixar: clique em **"Raw"** e salve a página
+- **Fichas científicas detalhadas e fichas dos 11 membros ECOSALA:** 
+  [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
 
-### Documentos complementares em outros repositórios
-- **Fichas científicas detalhadas:** [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
-- **Fichas dos 11 membros ECOSALA:** [mesmo link](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
+- **Acervo MQTF (protocolos abertos, ensaios, Diquada):** 
+  [github.com/takwaratec/Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia)
 
 ---
 
@@ -58,6 +55,18 @@ e Moradia Modular Sustentável.
 - [ ] **Anexo 4 — Declaração ambiental** — ⬜ Pendente
 - [ ] **Anexo 5 — Metodologia TRL** — ⬜ Pendente
 - [ ] **Vídeo de 5 minutos** — ⬜ Pendente
+
+---
+
+## 📚 Produção científica dos membros — como contribuir
+
+As fichas individuais no repositório de análises científicas foram atualizadas com base em busca exaustiva em bases indexadas (CrossRef, Google Scholar, Lattes).
+
+**Para membros com produção acadêmica encontrada:** Marcos Paron (1 artigo + 2 teses + Lattes confirmado), Gisele Vilela (2 artigos com DOI), Vicente Borges (tecnologias sociais MPTDF) e Raphaela Palma (dissertação USP).
+
+**Para membros sem produção acadêmica em bases indexadas:** André Blanco, Joaquim Sando, Luci Okino, Murillo Miguel, Henrique Bueno e Luis Felipe — a busca em CrossRef, Google Scholar e ResearchGate não retornou artigos com DOI associados ao nome.
+
+> 👉 **Caso você tenha artigos, teses, capítulos ou trabalhos publicados que não foram encontrados, abra uma Issue neste repositório ou envie o link do seu Lattes/ORCID para Fabio Takwara.** As fichas serão atualizadas com a produção fornecida.
 
 ---
 
