@@ -87,6 +87,8 @@ Aquisição e adaptação de chassis de ônibus elétrico/híbrido novo, incluin
 | **Subtotal bolsas** | | **350.000** |
 | **TOTAL** | | **R$ 4.996.000** |
 
+> 🔬 **Acervo Científico — Fichas Técnicas da Série T:** Cada equipamento listado acima possui ficha científica detalhada no Acervo Científico Takwara: Forno de Pirólise (T01), Resinador Rotativo (T03), Misturador de Biocompósitos (T04), Prensa de Cassetes (T05), Solda Vegetal/Gabaritos (T06), Tamboreador de Bambu (T08), Escariador Interno de Nós (T09) e Domo-Fábrica (T11). Consulte a ficha-mestra de visão geral ([ficha-serie-t-patentes-sociais.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-serie-t-patentes-sociais.md)) e as fichas individuais em [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/).
+
 ---
 
 ## 6. Equipe Executora
