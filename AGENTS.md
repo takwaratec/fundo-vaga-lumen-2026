@@ -43,6 +43,23 @@ Ao ser acionado neste repositório, seu papel é:
 
 ---
 
+## Mapa de Atribuições — Atores do ECOSALA
+
+| Ator | Papel | Tipo de contribuição |
+|---|---|---|
+| **André Blanco** | Arquiteto, Labiapa | Áudios WhatsApp, projetos construtivos, articulação FINEP/Fábrica Modelo |
+| **Fabio Takwara** | Pesquisador autodidata, tecnologias sociais | Inserções manuais de documentos (Chapada, Holambra, PU Vegetal). O que está em chat/e-mail/áudio é delegado ao agente |
+| **Gisele Vilela** | Pesquisadora Embrapa | Documentos técnicos, articulação institucional |
+| **Marcos Paron** | Professor IFSP | Coordenação, ecoformação, articulação acadêmica |
+| **Joaquim Sando** | Eng. Agrônomo, MST | Articulação territorial |
+| **Daniela Maciel** | Pesquisadora Embrapa | Fundação gestora (reunião pendente) |
+| **Murilo Miguel** | Coletivo Terra Viva | Operação de campo |
+| **Demais membros** | ECOSALA | Fichas pessoais, contribuições documentais |
+
+> **Fluxo:** Fabio faz inserções manuais de arquivos no repositório. Conteúdo de WhatsApp, e-mail e áudio é processado pelo agente e atribuído ao autor correspondente. Nunca atribuir a autoria de documentos a quem não os produziu.
+
+---
+
 ## Ferramentas Disponíveis
 
 | Ferramenta | Função | Status |

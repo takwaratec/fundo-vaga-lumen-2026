@@ -1,8 +1,23 @@
 # Relatório de Atualização — Proposta Vaga Lúmen (FINEP)
 
 **Data:** 26/06/2026
-**Baseado em:** Transcrições de áudio André Blanco + Fabio Takwara
-**Arquivos-fonte:** `TRIAGEM-BRUTA/01_WAPP/`
+**Baseado em:** Transcrições de áudio André Blanco + contribuições documentais de Fabio Takwara
+**Arquivos-fonte:** `TRIAGEM-BRUTA/01_WAPP/` (áudios André) + `TRIAGEM-BRUTA/03_PDFS/` (documentos Fabio)
+
+---
+
+## Mapa de Atribuições
+
+| Ator | Papel | Contribuições |
+|---|---|---|
+| **André Blanco** | Arquiteto (Labiapa) | Projeto construtivo do ônibus-escola e embarcação, Ecosala Móvel, contato Maurílio/FINEP, Teia como executora, articulação territorial (Mário Covas, APAs, Fábrica Modelo) |
+| **Fabio Takwara** | Pesquisador autodidata, tecnologias sociais | Documentos: Chapada (banheiro seco T12), Holambra (estufas geodésicas, biomassa bambu), PU Vegetal (Imperveg), biorrefinaria, fornos, equipamentos de beneficiamento. Inserções manuais no repositório |
+| **Gisele Vilela** | Pesquisadora Embrapa | Citada como articulação com fundação gestora — ainda não apreciou |
+| **Daniela Maciel** | Pesquisadora Embrapa | Fundação gestora — reunião pendente |
+| **Marcos Paron** | Professor IFSP | Sabe da iniciativa, não atualizado sobre esta empreitada específica |
+| **Murilo Miguel** | Coletivo Terra Viva | Citado sobre limitação espacial do Mário Lago — não apreciou |
+
+> **Nota sobre fluxo:** Fabio faz as inserções manuais de documentos no repositório. O que está em chat WhatsApp, e-mail e áudio é processado pelo agente e atribuído ao autor correspondente.
 
 ---
 
