@@ -7,7 +7,7 @@
 
 ## 1. Estratégia Proponente
 
-**André:** A Gisele e a Daniela (Embrapa) estão trabalhando num projeto ERP para cooperativas. A fundação da Embrapa (ou FUNCAMP) **pode ser a proponente/gestora financeira**. Uma fundação governamental tira a dor de cabeça financeira — o ECOSALA vira executor. A empresa "Teia" (do André) entra como executora.
+**André:** A empresa dele é **TEIA - Tecnologia, Educação, Inovação e Ambiente Ltda.** Labiapa é um projeto de Gestão de APAs, não a empresa. A fundação da Embrapa (ou FUNCAMP) **pode ser a proponente/gestora financeira**. Uma fundação governamental tira a dor de cabeça financeira — o ECOSALA vira executor. A TEIA (do André) entra como executora.
 
 **Fabio:** O problema central é **quem será a empresa proponente**. O faturamento dela define o teto da proposta e a contrapartida. Precisa estar alinhado.
 
@@ -42,12 +42,12 @@
 - Possíveis clientes: assentamentos citados (Mário Lago, Mário Covas), **Labiapa** (ESPAÇO FÍSICO), ou **Fábrica Modelo**
 - A definição do cliente/alvo é uma das próximas etapas
 
-### Fábrica-Escola + FINEP
-- Maurílio (Fábrica Modelo) **tem contato na FINEP**
-- Planejando oficinas de projeto na semana que vem
-- Fábrica de industrialização da construção (paredes ventiladas, cerâmico)
-- Estufa de bambu vira **escola de tecnologia**
-- Pode usar **patente da Texas**
+### Fábrica-Escola (projeto SEPARADO do Vaga Lúmen)
+- ⚠️ **André confirmou:** a Fábrica Modelo (Maurílio/Texas) **é um projeto diferente** do Vaga Lúmen
+- Sistemas de painéis, paredes bioclimáticas, concreto ventilado — Applied Technology (Texas)
+- André vai expandir para incluir terra, bambu e prototipagem
+- Fabio vai abrir **outra frente** com o Maurílio para um projeto FINEP próprio
+- ECOSALA/Vaga Lúmen seguem com reunião já marcada para começo de julho
 
 ---
 

@@ -45,7 +45,7 @@
 |---|---|
 | **Empresa proponente** | ⬜ **Indefinida** — é a pendência mais crítica |
 | **Fundação gestora** | 🔄 Fundação Embrapa ou FUNCAMP (Gisele/Daniela podem viabilizar) |
-| **Executor** | André (Teia) + ECOSALA |
+| **Executor** | André (TEIA - Tecnologia, Educação, Inovação e Ambiente Ltda.) + ECOSALA. Labiapa é um projeto de Gestão de APAs, não a empresa |
 
 ### O que André disse
 A fundação da Embrapa (ou FUNCAMP) pode ser a gestora financeira. A Gisele e a Daniela estão trabalhando num projeto ERP para cooperativas e têm esse canal.
@@ -65,8 +65,9 @@ O faturamento da proponente define tanto o **teto da proposta** quanto a **contr
 | **Assentamento Mário Covas** | André já fez prototipagem lá | Construção e tecnologia — canal aberto |
 | **APAs da região** | André — projeto LAB-APA | Áreas de proteção com comunidades agrícolas |
 | **CDHU** | Governo do Estado | Habitação social — conexão a construir |
-| **Labiapa** | Espaço físico do André | Ponto de apoio, prototipagem, base |
-| **Fábrica Modelo** | Maurílio — contato FINEP | Industrialização + escola de tecnologia |
+| **Labiapa** | Projeto de Gestão de APAs | Ponto de apoio, prototipagem, base |
+
+> ⚠️ **Fábrica Modelo (Maurílio/Texas) é um projeto SEPARADO** do Vaga Lúmen. André confirmou em áudio: são duas frentes distintas. Fabio vai abrir outra frente com o Maurílio para um projeto FINEP próprio, com foco em painéis, paredes bioclimáticas, concreto ventilado, terra e bambu.
 
 **Definição necessária:** Eleger um cliente/território específico para solicitar carta de consentimento e alocar recursos.
 

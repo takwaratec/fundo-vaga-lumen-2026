@@ -47,7 +47,7 @@ Ao ser acionado neste repositório, seu papel é:
 
 | Ator | Papel | Tipo de contribuição |
 |---|---|---|
-| **André Blanco** | Arquiteto, Labiapa | Áudios WhatsApp, projetos construtivos, articulação FINEP/Fábrica Modelo |
+| **André Blanco** | Arquiteto, diretor da TEIA | TEIA - Tecnologia, Educação, Inovação e Ambiente Ltda. (empresa executora). Labiapa é um projeto de Gestão de APAs, não a empresa. Áudios WhatsApp com atualizações |
 | **Fabio Takwara** | Pesquisador autodidata, tecnologias sociais | Inserções manuais de documentos (Chapada, Holambra, PU Vegetal). O que está em chat/e-mail/áudio é delegado ao agente |
 | **Gisele Vilela** | Pesquisadora Embrapa | Documentos técnicos, articulação institucional |
 | **Marcos Paron** | Professor IFSP | Coordenação, ecoformação, articulação acadêmica |
