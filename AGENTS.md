@@ -74,6 +74,9 @@ Ao ser acionado neste repositório, seu papel é:
 ### Regras críticas
 - ❌ NUNCA fabricar citações de figuras públicas (cientistas, autores)
 - ❌ NUNCA inflar TRL em propostas
+- ❌ NUNCA citar documentos internos (prefixos LAB_, ENG_, RES_, SCI_, TAK_) como evidência — só artigos públicos com DOI
+- ❌ NUNCA usar termos como "biosoberano" ou "protocolos disso/daquilo" em textos públicos — são metáforas internas
+- ✅ Tecnologia Takwara = proposta TRL laboratorial, nunca como tecnologia aplicada em comunidades
 - ✅ Usar paráfrase explícita quando não houver transcrição literal verificada
 - ✅ Atribuir sempre com honestidade
 
