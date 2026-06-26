@@ -33,13 +33,16 @@ e Moradia Modular Sustentável.
 
 ---
 
-## 🌐 Acessar documentos complementares
+## 📚 Acervo científico
 
-- **Fichas científicas detalhadas e fichas dos 11 membros ECOSALA:** 
-  [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
+Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
+👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
 
-- **Acervo MQTF (protocolos abertos, ensaios, Diquada):** 
-  [github.com/takwaratec/Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia)
+### Fichas individuais dos membros ECOSALA
+[github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
+
+### Acervo MQTF (protocolos abertos, ensaios, Diquada)
+[github.com/takwaratec/Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia)
 
 ---
 
