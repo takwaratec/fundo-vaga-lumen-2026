@@ -10,20 +10,15 @@
 
 ### O que já está consolidado no repositório
 
-| Documento | Finalidade |
-|---|---|
-| `proposta-final-vaga-lumen.md` | Proposta formatada para submissão |
-| `regulamento-finep-mais-inovacao.md` | Regulamento oficial transcrito (14p) |
-| `reavaliacao-trl-evidencias.md` | TRL com evidências científicas |
-| `compositos-alternativos-embarcacao.md` | Técnicas construtivas |
-| `analise-lacunas-honesta.md` | TRL real de cada subsistema |
-| `bibliografia-abnt.md` | Referências formatadas |
-| `docs/editais/decupagem-audios-andre-vaga-lumen.md` | **Este relatório** |
-
-### Correções já aplicadas
-- ❌ **UnB/LaPeCFaS removidas** — vínculo informal, não pode constar como ICT
-- ✅ **Imperveg referenciada** — fichas MAMONEX RD70, UG 132A, RQI no acervo
-- ❌ **Resina epóxi corrigida** — agente propôs por engano, voltou para **PU vegetal**
+| Documento | Finalidade | Acesso |
+|---|---|---|
+| `proposta-final-vaga-lumen.md` | Proposta formatada para submissão | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/proposta-final-vaga-lumen.md) |
+| `regulamento-finep-mais-inovacao.md` | Regulamento oficial transcrito (14p) | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/regulamento-finep-mais-inovacao.md) |
+| `reavaliacao-trl-evidencias.md` | TRL com evidências científicas | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/reavaliacao-trl-evidencias.md) |
+| `compositos-alternativos-embarcacao.md` | Técnicas construtivas | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/compositos-alternativos-embarcacao.md) |
+| `analise-lacunas-honesta.md` | TRL real de cada subsistema | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/analise-lacunas-honesta.md) |
+| `bibliografia-abnt.md` | Referências formatadas | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/bibliografia-abnt.md) |
+| `docs/editais/decupagem-audios-andre-vaga-lumen.md` | Decupagem dos áudios André | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/docs/editais/decupagem-audios-andre-vaga-lumen.md) |
 
 ---
 
