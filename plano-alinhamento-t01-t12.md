@@ -17,10 +17,10 @@
 ### 1.2 Fragilidades
 | Item | Problema |
 |---|---|
-| **Lastro tecnológico** | Menção genérica aos repositórios MQTF — sem citar tecnologias específicas |
+| **Lastro tecnológico** | Menção genérica aos repositórios de pesquisa — sem citar tecnologias específicas |
 | **Orçamento** | R$ 3,9M abaixo do mínimo de R$ 5M para Arranjo Simples |
 | **Empresa proponente** | Campo vazio — sem definição de quem lidera |
-| **ICTs** | UnB/IFSP citadas sem vínculo contratual prévio |
+| **ICTs** | IFSP citada sem vínculo contratual prévio |
 | **Contrapartida** | Não calculada — depende do porte da proponente |
 | **Tecnologias sociais** | MPTDF, fossa ecológica, biochar existem mas não estão articuladas |
 
@@ -28,7 +28,7 @@
 
 ## 2. Portfólio T01-T12 (Tecnologia Takwara)
 
-As **12 tecnologias abertas** (CC-BY, DOI/Zenodo) da série T foram desenvolvidas no âmbito do projeto **Mulheres Que Tecem a Floresta (MQTF)** / **Mulheres-Bioeconomia-Amazônia**. Não são patentes INPI — são **tecnologias sociais abertas**, publicadas na **Plataforma Amazônia Regenerativa** com licença Creative Commons.
+As **12 tecnologias abertas** (CC-BY, DOI/Zenodo) da série T foram desenvolvidas no âmbito do projeto **Mulheres Que Tecem a Floresta** / **Mulheres-Bioeconomia-Amazônia**. Não são patentes INPI — são **tecnologias sociais abertas**, publicadas na **Plataforma Amazônia Regenerativa** com licença Creative Commons.
 
 | Código | Tecnologia | Aplicação na Vaga Lúmen |
 |---|---|---|
@@ -112,7 +112,7 @@ Para maximizar pontuação e alcançar TRL 8 (Linha 3 permite TRL 8):
 | Proponente | [Cooperativa local] | Gestão, contrapartida, campo |
 | Coexecutora 1 | IFSP Sertãozinho | Engenharia, ensaios mecânicos |
 | Coexecutora 2 | Labiapa/Unicamp | Bioconstrução, bambu |
-| ICT Parceira | UnB (LaPeCFaS) | MPTDF, caracterização |
+| ICT Parceira | instituicao de pesquisa | MPTDF, caracterização |
 | ICT Parceira | IFB Planaltina | Educação do Campo |
 
 ---

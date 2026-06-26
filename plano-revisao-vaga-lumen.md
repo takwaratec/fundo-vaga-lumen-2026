@@ -14,10 +14,10 @@ As tecnologias sugeridas (anteriormente referidas como T01-T12) **não foram tes
 
 | Material/Processo | Onde foi testado | TRL atual | Referência |
 |---|---|---|---|
-| Bambu tratado a vapor (MPTDF) | LaPeCFaS/UnB, IFB Planaltina | TRL 4-5 | Repositório de análise científica |
+| Bambu tratado a vapor (MPTDF) | instituicao de pesquisa, IFB Planaltina | TRL 4-5 | Repositório de análise científica |
 | PU Vegetal de mamona | Laboratório Limeira, Imperveg | TRL 4 | Análises e escrita científica |
 | Biochar de biomassa | Estudos Takwara-Tech | TRL 3-4 | Nota técnica biochar |
-| Fossa séptica ecológica | MQTF — estudos isolados | TRL 3 | Acervo MQTF |
+| Fossa séptica ecológica | Acervo de Pesquisa — estudos isolados | TRL 3 | Acervo de Pesquisa |
 | Embarcação catamarã de bambu | Projeto conceitual com DOI/Zenodo | TRL 2-3 | Plataforma Amazônia Regenerativa |
 | Fitossaneamento com pirolenhoso | Estudos Takwara-Tech | TRL 3 | Manual de fitossaneamento |
 
@@ -146,7 +146,7 @@ Estratégia para atingir o mínimo:
 | Análises científicas dos materiais | `github.com/takwaratec/Analises-e-escrita-cientifica` |
 | Manuais de bambu, PU Vegetal, biochar | `github.com/takwaratec/Takwara-Tech` |
 | Fichas técnicas PU Vegetal + tratamentos | `github.com/takwaratec/Mentoria_Tecnologia_Takwara` |
-| Acervo MQTF (saneamento, bioeconomia) | `github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone` |
+| Acervo de Pesquisa (saneamento, bioeconomia) | `github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone` |
 | Embarcação catamarã de bambu (DOI) | Plataforma Amazônia Regenerativa / Zenodo |
 | Proposta atual Vaga Lúmen | `github.com/takwaratec/plataforma-juventude-solidaria-2026` |
 | ATA da reunião inaugural | `docs/12_REUNIOES/MEMORIAL_REUNIAO_2026-05-05.md` |

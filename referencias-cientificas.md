@@ -162,7 +162,7 @@ Os papers de Cereceda & Schemenauer documentam a evolução dos coletores tipo "
 - **Projeto Coletor de Humidade** (André Blanco + Gianluca Stasi) — autoral
 - **Oca do Curumim** (André Blanco et al.) — obra construída
 - **Geodésica FAUUSP** (André Blanco) — protótipo funcional
-- **Forno MPTDF** (LaPeCFaS/UnB/IFB + Vicente Borges + Fabio Takwara)
+- **Forno MPTDF** (instituicao de pesquisa + Vicente Borges + Fabio Takwara)
 
 ---
 

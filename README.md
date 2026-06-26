@@ -41,7 +41,7 @@ Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
 ### Fichas individuais dos membros ECOSALA
 [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
 
-### Acervo MQTF (protocolos abertos, ensaios, Diquada)
+### Acervo de Pesquisa (protocolos abertos, ensaios, Diquada)
 [github.com/takwaratec/Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia)
 
 ---

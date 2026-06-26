@@ -57,7 +57,7 @@ BLANCO, A. et al. Oca do Curumim: estrutura de bambu para educação infantil. P
 
 ## Tratamento de Bambu e Materiais
 
-SILVA, V. P. B.; TAKWARA, F. Forno ecológico a vapor (MPTDF) para tratamento de bambu: manual de construção e operação. *LaPeCFaS/UnB/IFB*, 2024.
+SILVA, V. P. B.; TAKWARA, F. Forno ecológico a vapor (MPTDF) para tratamento de bambu: manual de construção e operação. *instituicao de pesquisa*, 2024.
 
 TAKWARA, F. Poliuretano vegetal de mamona (Imperveg): ficha técnica consolidada. *Tecnologia Takwara / Plataforma Amazônia Regenerativa*, 2025.
 

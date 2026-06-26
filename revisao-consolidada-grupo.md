@@ -101,7 +101,7 @@ TRL DE CHEGADA:        6-7  (demonstração operacional)
 | Análises científicas dos materiais | `github.com/takwaratec/Analises-e-escrita-cientifica` |
 | Manuais de bambu, PU Vegetal, biochar | `github.com/takwaratec/Takwara-Tech` |
 | Fichas técnicas PU Vegetal + tratamentos | `github.com/takwaratec/Mentoria_Tecnologia_Takwara` |
-| Acervo MQTF (saneamento, bioeconomia) | `github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone` |
+| Acervo de Pesquisa (saneamento, bioeconomia) | `github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone` |
 | Embarcação catamarã (DOI/Zenodo) | *Plataforma Amazônia Regenerativa* |
 | Proposta atual + documentos do grupo | `github.com/takwaratec/plataforma-juventude-solidaria-2026` |
 | ATA da reunião inaugural (05/05/2026) | `12_REUNIOES/MEMORIAL_REUNIAO_2026-05-05.md` |

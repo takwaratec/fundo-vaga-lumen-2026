@@ -8,7 +8,7 @@
 | **Valor minimo** | R$ 5.000.000,00 |
 | **Projeto** | Vaga Lumen: Laboratorio Itinerante |
 | **Proponente** | [A definir] |
-| **ICTs** | UnB, IFSP, IFB, Labiapa, Embrapa |
+| **ICTs** | IFSP, IFB, Labiapa, Embrapa |
 
 ## Check-list de Submissao
 - [ ] Proponente definido com CNPJ

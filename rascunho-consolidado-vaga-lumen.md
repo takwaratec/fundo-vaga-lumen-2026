@@ -17,7 +17,7 @@ A proposta não tem empresa proponente definida. O edital FINEP Mais Inovação 
 
 *Campo livre — recomenda-se até 500 caracteres. Abaixo, sugestão de texto.*
 
-A Empresa Proponente está em definição — recomenda-se cooperativa local vinculada ao Assentamento Mário Lago ou à Regional MST. Como Coexecutoras: IFSP (Campus Sertãozinho) e Labiapa. ICTs Parceiras: UnB (LaPeCFaS), IFB Planaltina e Embrapa Campinas. Enquadramento: Linha 3 — Água e Esgoto (sistemas descentralizados em localidades isoladas) e Linha 4 — Moradia e Espaços Públicos Sustentáveis (novos materiais leves/sustentáveis).
+A Empresa Proponente está em definição — recomenda-se cooperativa local vinculada ao Assentamento Mário Lago ou à Regional MST. Como Coexecutoras: IFSP (Campus Sertãozinho) e Labiapa. ICTs Parceiras: instituicao de pesquisa, IFB Planaltina e Embrapa Campinas. Enquadramento: Linha 3 — Água e Esgoto (sistemas descentralizados em localidades isoladas) e Linha 4 — Moradia e Espaços Públicos Sustentáveis (novos materiais leves/sustentáveis).
 
 ---
 
@@ -35,7 +35,7 @@ Vaga Lúmen: Laboratório Móvel Itinerante de Saneamento Descentralizado e Mora
 
 O projeto Vaga Lúmen propõe o desenvolvimento e a validação em escala pré-industrial de um centro itinerante de educação e validação prática de tecnologias de economia circular, composto por um **ônibus-escola adaptado**, uma **embarcação fluvial estruturada em bambu** e **módulos pedagógicos permaculturais**. Todos os subsistemas serão fabricados pelo núcleo proponente com base em protocolos de tratamento ecológico e bioconstrução desenvolvidos e consolidados em pesquisas acadêmicas e técnicas — não há soluções comerciais prontas disponíveis, o que caracteriza a natureza da inovação.
 
-O tratamento do bambu estrutural seguirá o **Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso)**, formalizado na Nota Técnica ENG-NT-005 do Consórcio UnB/UFRR/UFAC (Projeto Mulheres Que Tecem a Floresta — MQTF). Este protocolo compreende três etapas complementares: (1) **alcalinização via Diquada** — imersão dos colmos em solução alcalina de cinzas residuais (10kg/100L, pH 11+, 2-3h) para degradação de amidos superficiais e preparação da microporosidade; (2) **impregnação fungicida com ácido pirolenhoso** — subproduto da carbonização da biomassa, aplicado como biopesticida de largo espectro, sem os impactos carcinogênicos dos tratamentos convencionais com boratos (Araújo et al., 2025); (3) **impermeabilização com resina vegetal de mamona** (PU vegetal), formando barreira hidrofóbica e bio-preservante.
+O tratamento do bambu estrutural seguirá o **Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso)**, formalizado na Nota Técnica ENG-NT-005 de referencia (Projeto Mulheres Que Tecem a Floresta — Acervo de Pesquisa). Este protocolo compreende três etapas complementares: (1) **alcalinização via Diquada** — imersão dos colmos em solução alcalina de cinzas residuais (10kg/100L, pH 11+, 2-3h) para degradação de amidos superficiais e preparação da microporosidade; (2) **impregnação fungicida com ácido pirolenhoso** — subproduto da carbonização da biomassa, aplicado como biopesticida de largo espectro, sem os impactos carcinogênicos dos tratamentos convencionais com boratos (Araújo et al., 2025); (3) **impermeabilização com resina vegetal de mamona** (PU vegetal), formando barreira hidrofóbica e bio-preservante.
 
 A produção de biochar associada à pirólise gera três benefícios integrados: **sequestro de carbono** (carbono pirogênico estável no solo), **condicionamento de solo** para os sistemas agroflorestais previstos, e **produção de ácido pirolenhoso** para o tratamento do bambu. A sustentação térmica dos processos utiliza **Rocket Stoves** com isolamento cerâmico, cuja eficiência de transferência de calor foi validada por simulações CFD (Stefanditya et al., 2023), garantindo que o vapor saturado atinja temperatura suficiente para permear o lúmen e os nós do bambu sem consumo excessivo de biomassa.
 
@@ -53,13 +53,13 @@ A atuação ocorrerá nos 4 assentamentos e 5 acampamentos da Regional Ribeirão
 
 ### 4.1. Incertezas Tecnológicas
 
-**Alcalinização (Diquada) em ambiente móvel.** O banho alcalino com cinzas residuais (10kg/100L, pH 11+) foi validado em regime estacionário para bambu Guadua spp. (NT-005 MQTF). Sua adaptação a um sistema itinerante — com variações de temperatura ambiente, disponibilidade hídrica e logística de transporte dos colmos — constitui incerteza tecnológica a ser resolvida por ensaios de campo.
+**Alcalinização (Diquada) em ambiente móvel.** O banho alcalino com cinzas residuais (10kg/100L, pH 11+) foi validado em regime estacionário para bambu Guadua spp. (Nota Tecnica de referencia). Sua adaptação a um sistema itinerante — com variações de temperatura ambiente, disponibilidade hídrica e logística de transporte dos colmos — constitui incerteza tecnológica a ser resolvida por ensaios de campo.
 
-**Integração bambu tratado + PU vegetal + biochar em ambiente náutico.** A combinação do protocolo Diquada-Pirolenhoso com selante de PU vegetal de mamona (Imperveg RQI 132 e AGT 1315) dispõe de estudos navais específicos no acervo MQTF, incluindo o estudo "Arte Naval no Acre" com 28 referências ABNT sobre carpintaria naval tradicional, bambu Guadua, termorretificação e PU de mamona (RES_triagem-naval-ribeirinhos, Consórcio UnB/UFRR/UFAC). As resinas Imperveg têm ensaios laboratoriais de aderência (LAB_001 — 1,8 MPa, conforme NP EN 1504-2), resistência química (LAB_003), permeabilidade ao vapor (LAB_005) e compatibilidade térmica (LAB_006). O biocompósito bambu+PU apresenta resistência à tração de 150-300 MPa com densidade de 450-600 kg/m³. Há projetos de catamarã biocompósito com propulsão a vapor e sistema de cascos por encapsulamento (bombonas PEAD + PU + pele de bambu) documentados no mesmo acervo. O projeto avançará para ensaios de intemperismo acelerado e validação em ambiente náutico real, elevando o TRL de 4 para 7.
+**Integração bambu tratado + PU vegetal + biochar em ambiente náutico.** A combinação do protocolo Diquada-Pirolenhoso com selante de PU vegetal de mamona (Imperveg RQI 132 e AGT 1315) dispõe de estudos navais específicos no acervo de pesquisa, incluindo o estudo "Arte Naval no Acre" com 28 referências ABNT sobre carpintaria naval tradicional, bambu Guadua, termorretificação e PU de mamona (RES_triagem-naval-ribeirinhos, documentacao tecnica). As resinas Imperveg têm ensaios laboratoriais de aderência (LAB_001 — 1,8 MPa, conforme NP EN 1504-2), resistência química (LAB_003), permeabilidade ao vapor (LAB_005) e compatibilidade térmica (LAB_006). O biocompósito bambu+PU apresenta resistência à tração de 150-300 MPa com densidade de 450-600 kg/m³. Há projetos de catamarã biocompósito com propulsão a vapor e sistema de cascos por encapsulamento (bombonas PEAD + PU + pele de bambu) documentados no mesmo acervo. O projeto avançará para ensaios de intemperismo acelerado e validação em ambiente náutico real, elevando o TRL de 4 para 7.
 
 **Biochar como filtro de efluentes.** O biochar tem aplicação validada como condicionador de solo e como meio de filtração em sistemas estacionários. Sua aplicação em biofiltro dinâmico sujeito a vibração e balanço (embarcação) é hipótese a ser validada por prototipagem e ensaios hidráulicos.
 
-**Pirolenhoso como biofertilizante e biodefensivo.** O uso do ácido pirolenhoso como fungicida e bactericida no tratamento de bambu está consolidado (NT-005 MQTF). Seu potencial como biofertilizante foliar e biodefensivo para cultivos associados ao projeto (hortas, SAFs) é documentado na literatura mas não possui protocolo validado em campo para as espécies e condições edafoclimáticas da região.
+**Pirolenhoso como biofertilizante e biodefensivo.** O uso do ácido pirolenhoso como fungicida e bactericida no tratamento de bambu está consolidado (Nota Tecnica de referencia). Seu potencial como biofertilizante foliar e biodefensivo para cultivos associados ao projeto (hortas, SAFs) é documentado na literatura mas não possui protocolo validado em campo para as espécies e condições edafoclimáticas da região.
 
 **Sistemas biológicos de saneamento sob vibração e balanço.** O banheiro seco compostável e o biofiltro foram validados em unidades fixas. Sua operação em embarcação sujeita a vibração mecânica e inclinações de navegação exige projeto mecânico com amortecimento e ensaios em mesa de vibração.
 
@@ -69,11 +69,11 @@ Os protocolos propostos ancoram-se nas seguintes evidências:
 
 - **Araújo et al. (2025):** Avaliação do Ciclo de Vida do bambu Guadua na Amazônia brasileira. Demonstra que o tratamento convencional com ácido bórico e bórax é responsável por 93% do impacto ambiental da cadeia, com toxicidade carcinogênica humana e risco de contaminação hídrica. Publicado no Brazilian Journal of Science, 4(4), DOI: 10.14295/bjs.v4i4.719. *Este estudo é o gatilho científico que justifica a substituição dos tratamentos químicos por processos de toxicidade zero.*
 
-- **Nota Técnica ENG-NT-005 (MQTF/UnB/UFRR/UFAC):** Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso). Formaliza o banho alcalino (10kg cinzas/100L, 2-3h, pH 11+), a impregnação fungicida com pirolenhoso, e a impermeabilização com PU vegetal. Documenta a fluência térmica das serpentinas do Rocket Stove T01/T10 com ganho de 11,15% na interface térmica.
+- **Nota Técnica ENG-NT-005 (referencia tecnica):** Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso). Formaliza o banho alcalino (10kg cinzas/100L, 2-3h, pH 11+), a impregnação fungicida com pirolenhoso, e a impermeabilização com PU vegetal. Documenta a fluência térmica das serpentinas do Rocket Stove T01/T10 com ganho de 11,15% na interface térmica.
 
 - **Stefanditya et al. (2023):** Simulações de CFD do Rocket Stove com isolamento cerâmico de 30mm. Temperatura de saída superior a 450°C, validando a eficiência do sistema de vapor para tratamento itinerante.
 
-- **Nota Técnica NT-001 (MQTF):** Tratamento Ecológico do Bambu — documenta os três pilares complementares: termorretificação, alcalinização (Diquada) e impermeabilização via PU-mamona.
+- **Nota Técnica NT-001 (documentacao tecnica):** Tratamento Ecológico do Bambu — documenta os três pilares complementares: termorretificação, alcalinização (Diquada) e impermeabilização via PU-mamona.
 
 ### 4.3. Tratamento Natural vs. Químico
 
@@ -117,10 +117,10 @@ Todos os itens referem-se à **fabricação própria pelo núcleo proponente** �
 
 | Tecnologia | Base científica | Maturidade |
 |---|---|---|
-| Protocolo Diquada (alcalinização com cinzas) | NT-005 MQTF (UnB/UFRR/UFAC) | TRL 4 — validado em campo |
-| Impregnação com pirolenhoso | NT-005 MQTF; Araújo (2025) — ACV | TRL 4 — consolidado |
-| Impermeabilização com PU vegetal (mamona) | Ficha técnica Imperveg; NT-001 MQTF | TRL 4 — laboratório |
-| Forno MPTDF (vapor + pirolenhoso) | LaPeCFaS/UnB/IFB | TRL 4-5 — protótipo |
+| Protocolo Diquada (alcalinização com cinzas) | Nota Tecnica de referencia | TRL 4 — validado em campo |
+| Impregnação com pirolenhoso | Nota Tecnica de referencia; Araújo (2025) — ACV | TRL 4 — consolidado |
+| Impermeabilização com PU vegetal (mamona) | Ficha técnica Imperveg; Nota Tecnica de referencia | TRL 4 — laboratório |
+| Forno MPTDF (vapor + pirolenhoso) | instituicao de pesquisa | TRL 4-5 — protótipo |
 | Produção de biochar + sequestro de carbono | Nota técnica específica | TRL 3-4 |
 | Geodésicas de bambu | Construções empíricas (FAUUSP, Oca Curumim) | TRL 5-6 |
 | Coletor de Humidade (torre de neblina) | André Blanco + G. Stasi — Piracicaba | TRL 3-4 |
@@ -154,7 +154,7 @@ Warka Water (Vittori, 2012-2015, Etiópia); coletores chilenos (Cereceda & Schem
 1. **Empresa proponente sem CNPJ.** Prioridade: crítica.
 2. **Contrapartida não calculada.** Prioridade: alta.
 3. **Orçamento abaixo do mínimo.** Prioridade: alta.
-4. **Cartas de anuência das ICTs (UnB, IFSP, IFB, Embrapa).** Prioridade: média.
+4. **Cartas de anuência das ICTs (IFSP, IFB, Embrapa).** Prioridade: média.
 5. **Cartas de anuência dos territórios (4 assentamentos + 5 acampamentos).** Prioridade: média.
 6. **Protocolo de ensaios de pirolenhoso (biofertilizante, biodefensivo).** Prioridade: média.
 7. **Projeto catamarã — engenharia naval.** Prioridade: baixa.
@@ -184,11 +184,11 @@ ARAUJO, L. M.; GIANELLI, B. F.; MANCINI, S. D.; MEDEIROS, G. A. Life cycle asses
 
 STEFANDITYA et al. CFD simulations of rocket stove thermal efficiency with ceramic fiber insulation. 2023.
 
-### Protocolos MQTF (Consórcio UnB/UFRR/UFAC)
+### Protocolos de referencia
 
-Nota Técnica ENG-NT-005: Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso). Projeto Mulheres Que Tecem a Floresta (MQTF), 2025.
+Nota Técnica ENG-NT-005: Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso). Acervo de Pesquisa, 2025.
 
-Nota Técnica NT-001: Tratamento Ecológico do Bambu — bio-preservação e transição para a toxicidade zero. MQTF, 2025.
+Nota Técnica NT-001: Tratamento Ecológico do Bambu — bio-preservação e transição para a toxicidade zero. Acervo de Pesquisa, 2025.
 
 ### Captação de água atmosférica
 
@@ -210,7 +210,7 @@ BLANCO, A. et al. Oca do Curumim: estrutura de bambu para educação infantil. S
 
 ### Tratamento de bambu e materiais
 
-Nota Técnica: Forno ecológico a vapor MPTDF. LaPeCFaS/UnB/IFB, 2024.
+Nota Técnica: Forno ecológico a vapor MPTDF. instituicao de pesquisa, 2024.
 
 Ficha técnica: Poliuretano vegetal de mamona (Imperveg). Plataforma Amazônia Regenerativa, 2025.
 
@@ -242,7 +242,7 @@ Acervo de análises e escrita científica: `github.com/takwaratec/Analises-e-esc
 
 Acervo Takwara-Tech (artigos, manuais, notas técnicas): `github.com/takwaratec/Takwara-Tech`
 
-Acervo MQTF (dossiê BNDES, 12 protocolos abertos): `github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone`
+Acervo de Pesquisa (dossiê BNDES, 12 protocolos abertos): `github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone`
 
 ### Documentos do grupo
 

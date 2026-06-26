@@ -49,7 +49,7 @@
 | # | Ação |
 |---|---|
 | 5 | Detalhar cronograma físico-financeiro por mês/trimestre com entregas |
-| 6 | Obter cartas de anuência das ICTs (UnB, IFSP, IFB, Embrapa, Labiapa) — Anexo 6 |
+| 6 | Obter cartas de anuência das ICTs (IFSP, IFB, Embrapa, Labiapa) — Anexo 6 |
 | 7 | Obter cartas de anuência dos territórios (MST Regional RP, Coletivo Terra Viva) |
 | 8 | Elaborar Declaração de ações coletivas (Anexo 3) |
 | 9 | Elaborar Declaração ambiental (Anexo 4) |

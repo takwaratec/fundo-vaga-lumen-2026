@@ -12,7 +12,7 @@
 |---|---|---|---|---|
 | **Forno MPTDF** (vapor + sal + pirolenhoso) | **TRL 4-5** | Protótipo funcional no IFB Planaltina. Testes empíricos de tratamento. Cartilha de construção. | Ensaios normatizados (ABNT). Caracterização completa de durabilidade. | Cartilha Bambu (Obsidian), Roteiro de Testes (+CEFET) |
 | **Geodésicas de bambu** | **TRL 5-6** | Múltiplas construções empíricas (Rio+20, oficinas). Projeto conceitual validado. | Ensaios estruturais. Normatização. Certificação. | Labiapa (André Blanco), registros fotográficos |
-| **PU Vegetal (mamona/Imperveg)** | **TRL 4** | Formulação laboratorial. Ensaios de tração. Fichas técnicas. | Aplicação em escala real. Intemperismo acelerado. Selante náutico testado. | Mentoria_Tecnologia_Takwara, Acervo MQTF |
+| **PU Vegetal (mamona/Imperveg)** | **TRL 4** | Formulação laboratorial. Ensaios de tração. Fichas técnicas. | Aplicação em escala real. Intemperismo acelerado. Selante náutico testado. | Mentoria_Tecnologia_Takwara, Acervo de Pesquisa |
 | **Biochar** | **TRL 3-4** | Nota técnica. Estudos de produção. Aplicação em solo. | Uso como filtro de efluentes. Integração com saneamento. | Takwara-Tech (nota técnica biochar) |
 | **Pirolenhoso** na caldeira MPTDF | **TRL 4** | Incorporado ao processo do forno. Dosagem 10-30% do volume. | NÃO TESTADO como biofertilizante, biodefensivo ou preservativo isolado. **Potencial não explorado.** | Roteiro de Testes, Cartilha Bambu |
 | **Fossa séptica ecológica / saneamento descentralizado** | **TRL 2-3** | Conceitos da literatura. Projeto T01 (Plataforma Amazônia Regenerativa). | Protótipo construído. Teste de campo. Validação em ambiente real. | Plataforma Amazônia Regenerativa (conceitual) |

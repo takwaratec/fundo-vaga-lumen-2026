@@ -70,7 +70,7 @@ A construção de catamarãs artesanais com tambores/bombonas plásticas de 200L
 - **Mobilidade** — desmontável para transporte terrestre
 
 ### Aplicação no projeto Vaga Lúmen
-O conceito de "cascos por encapsulamento" (bombonas PEAD + PU + pele de bambu) documentado no acervo MQTF (RES_triagem-naval-ribeirinhos) utiliza bombonas de 200L como núcleo de flutuação, envolvidas em PU vegetal e revestidas com bambu tratado. Este sistema oferece:
+O conceito de "cascos por encapsulamento" (bombonas PEAD + PU + pele de bambu) documentado no acervo de pesquisa (RES_triagem-naval-ribeirinhos) utiliza bombonas de 200L como núcleo de flutuação, envolvidas em PU vegetal e revestidas com bambu tratado. Este sistema oferece:
 - **Flutuação redundante** — múltiplos compartimentos independentes
 - **Proteção mecânica** — o bambu absorve impactos
 - **Impermeabilização** — o PU vegetal sela o conjunto
