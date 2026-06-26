@@ -36,9 +36,11 @@
 - Formatos: ônibus, barco, carretas, bikes
 - Bambu integra todos os projetos e fecha o valor mínimo
 
-### Equipamentos
-- Gisele tem **orçamento de equipamentos** no projeto Embrapa
-- Pode complementar o Vaga Lúmen
+### Equipamentos (ilustração — não confirmado)
+- André citou o projeto da Gisele como **exemplo de caminho possível** para alocação de recursos
+- ⚠️ **Não é um fato consumado** — Fabio ponderou que é preciso definir uma **clientela específica** para alocar esses recursos
+- Possíveis clientes: assentamentos citados (Mário Lago, Mário Covas), **Labiapa** (ESPAÇO FÍSICO), ou **Fábrica Modelo**
+- A definição do cliente/alvo é uma das próximas etapas
 
 ### Fábrica-Escola + FINEP
 - Maurílio (Fábrica Modelo) **tem contato na FINEP**

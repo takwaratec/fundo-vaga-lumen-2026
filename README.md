@@ -43,7 +43,7 @@ e Moradia Modular Sustentável.
 | **Territórios** | Mário Lago + Mário Covas + APAs da região (LAB-APA) + CDHU |
 | **Escopo adicional** | Incluir Ecosala Móvel (carretas), bioconstrução bambu, fábrica-escola |
 | **Fábrica Modelo** | Maurílio tem contato na FINEP — oficinas de projeto na próxima semana |
-| **Equipamentos** | Gisele/Daniela têm orçamento no projeto Embrapa |
+| **Equipamentos** | André citou projeto Embrapa como ilustração — Fabio ponderou: precisa definir cliente específico (assentamentos, Labiapa, Fábrica Modelo) |
 | **Tecnologias Fabio** | Biorrefinaria, forno cascateamento, painéis PU+bambu, conexões geodésicas |
 | **Correções** | Referências UnB/LaPeCFaS removidas; Imperveg referenciada |
 
