@@ -33,6 +33,24 @@ e Moradia Modular Sustentável.
 
 ---
 
+## 📋 Allinhamentos Recentes (26/06/2026)
+
+**Decupagem de áudios André Blanco → Fabio Takwara:**
+
+| Tema | Encaminhamento |
+|---|---|
+| **Proponente** | Fundação Embrapa ou FUNCAMP como gestora financeira — reunião com Daniela agendada |
+| **Territórios** | Mário Lago + Mário Covas + APAs da região (LAB-APA) + CDHU |
+| **Escopo adicional** | Incluir Ecosala Móvel (carretas), bioconstrução bambu, fábrica-escola |
+| **Fábrica Modelo** | Maurílio tem contato na FINEP — oficinas de projeto na próxima semana |
+| **Equipamentos** | Gisele/Daniela têm orçamento no projeto Embrapa |
+| **Tecnologias Fabio** | Biorrefinaria, forno cascateamento, painéis PU+bambu, conexões geodésicas |
+| **Correções** | Referências UnB/LaPeCFaS removidas; Imperveg referenciada |
+
+> 📄 Detalhes completos: [`docs/editais/decupagem-audios-andre-vaga-lumen.md`](docs/editais/decupagem-audios-andre-vaga-lumen.md)
+
+---
+
 ## 📚 Acervo científico
 
 Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
