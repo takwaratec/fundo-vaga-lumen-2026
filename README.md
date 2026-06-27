@@ -91,6 +91,19 @@ flowchart TB
 
 ---
 
+## 🆕 Ferramentas de Avaliação de Impacto
+
+Daniela Maciel (Embrapa), nova integrante do ECOSALA, disponibilizou ferramentas de código aberto para avaliação de impacto e governança de projetos — aplicáveis diretamente à proposta Vaga Lúmen:
+
+| Ferramenta | O que faz | Aplicação na FINEP |
+|---|---|---|
+| **TerImpact Ex-Ante** | Sistema web de avaliação ex-ante e tramitação de projetos | Metodologia de avaliação de impacto + governança rastreável |
+| **AgroRadarEval** | Diagnóstico visual (radar) da maturidade de gestão | Comprova capacidade do proponente |
+
+📄 Fichas: [TerImpact Ex-Ante](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/ficha-terimpact-exante.md) · [AgroRadarEval](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/ficha-agroradareval.md) · [Perfil Daniela](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/daniela-maciel.md)
+
+---
+
 ## 📚 Acervo científico
 
 Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
