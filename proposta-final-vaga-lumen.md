@@ -141,6 +141,21 @@ Fichas da equipe: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main
 
 Protocolos abertos: [github.com/takwaratec/Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia)
 
+### 🔬 Referências ao Acervo Científico Takwara (novas fichas)
+
+O Acervo Científico da Tecnologia Takwara foi expandido com fichas técnicas e análises críticas diretamente relevantes aos pilares do Vaga Lúmen:
+
+| Tema | Ficha | Link |
+|---|---|---|
+| 🏛️ **Análise Crítica da COP30** | Dossiê, casa floresta, floresta em pé, decreto presidencial, ultimato climático | [ficha-analise-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-analise-cop30.md) · [ficha-dossie-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-dossie-cop30.md) · [ficha-casa-floresta-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-casa-floresta-cop30.md) · [ficha-floresta-em-pe.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-floresta-em-pe.md) · [ficha-decreto-presidencial-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-decreto-presidencial-bambu.md) · [resenha-ultimato-climatico.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/resenha-ultimato-climatico.md) |
+| 🧪 **Crítica aos Tratamentos Químicos do Bambu** | Análise ambiental comparativa (CCA, bórax vs. protocolo ecológico) | [ficha-critica-tratamento-quimico-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-critica-tratamento-quimico-bambu.md) |
+| 🔥 **Forno Ecológico Multifuncional** | Pirólise lenta, biochar, pirolenhoso — tecnologia MPTDF | [ficha-forno-ecologico-multifuncional.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-forno-ecologico-multifuncional.md) |
+| 🌿 **Fitorremediação com Bambu** | Remediação de solos e águas contaminadas | [ficha-fitorremediacao-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-fitorremediacao-bambu.md) |
+| 🔩 **Reforço Interno Bambu+PU** | Ensaios mecânicos, aderência Imperveg | [ficha-reforco-interno-bambu-pu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-reforco-interno-bambu-pu.md) |
+| 📦 **Painéis e Tijolos de Bambu** | Painéis sanduíche, briquetes, blocos | [ficha-paineis-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-paineis-bambu.md) · [ficha-tijolos-briquetes-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-tijolos-briquetes-bambu.md) |
+
+Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/)
+
 ---
 
 ## ⚠️ Pontos a aprofundar ou avaliar com cautela (para discussão do grupo)
