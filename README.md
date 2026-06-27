@@ -10,6 +10,27 @@ e Moradia Modular Sustentável.
 
 **👥 Pra quem?** Grupo ECOSALA, avaliadores FINEP, parceiros institucionais.
 
+```mermaid
+flowchart TB
+    subgraph Central["🧠 Central"]
+        AC[("📚 Acervo Científico")]
+    end
+    subgraph Ativos["📋 Projetos"]
+        EC[("🌱 ECOSALA")]
+        VL[("💰 Vaga Lúmen<br/>este repo")]
+        MJ[("🌾 MSTJS")]
+    end
+    subgraph Futuro["🔮 Novo"]
+        FM[("🏭 Fábrica Modelo")]
+    end
+    AC -->|Referências| EC
+    AC -->|Referências| VL
+    AC -->|Referências| MJ
+    EC -->|Demandas| VL
+    EC -->|Demandas| MJ
+    VL -.->|Sinergia| FM
+```
+
 ---
 
 ## 📂 O que tem aqui
