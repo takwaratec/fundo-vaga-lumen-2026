@@ -1,14 +1,12 @@
 # 💰 Vaga Lúmen — Proposta FINEP Mais Inovação
 
-> 🌿 **Bem Viver** — Somos um encontro de trajetórias diversas que convergem em um propósito comum: a construção de mundos onde a vida, em todas as suas formas, ocupe o centro das relações sociais, econômicas e políticas.
+> ⚠️ **Compartilhamento seletivo** — Este repositório não é de acesso público irrestrito. Recomendamos o compartilhamento apenas com pessoas que tenham vínculo direto com o propósito: cooperativas, pesquisadores, analistas de editais, avaliadores e orientadores. A entrada de novos membros no ecossistema se dá exclusivamente por conexão com um projeto irmão ativo — não por convite aberto.
 >
-> Não há aqui uma única disciplina, uma única origem ou uma única voz. Somos agrônomos, arquitetos, microbiologistas, engenheiros, educadoras, nutricionistas, psicólogas, gestoras comunitárias, desenvolvedores e pesquisadores autodidatas. Atuamos em institutos federais, centros de pesquisa, universidades, assentamentos da reforma agrária, Áreas de Proteção Ambiental e periferias urbanas.
+> 🎋 **Acelerador de resultados, não vitrine** — Como o bambu, que não cresce isolado mas em rede de rizomas subterrâneos, cada repositório deste ecossistema só ganha sentido quando vinculado a um projeto real. Não expomos conhecimento para validação externa — aceleramos quem está na ponta.
 >
-> O que nos une não é um título, mas uma convicção: a de que a ciência deve servir à terra e aos povos que nela habitam. Trabalhamos com agroecologia e bioconstrução, com bambu e poliuretano vegetal, com saneamento ecológico e bioeconomia regenerativa, com tecnologias sociais que emergem do chão das comunidades e retornam a elas como autonomia.
+> Trabalhamos sob duas bússolas. As **7 Lições do Bambu** nos lembram que é preciso curvar sem quebrar, criar raízes profundas, cooperar em comunidade, crescer com foco, colecionar nós de aprendizado, permanecer ocos de certezas e buscar o bem comum. Os **7 Pilares de Edgar Morin** para a educação do futuro nos ancoram no pensamento complexo: o conhecimento só é pertinente quando enfrenta a incerteza, ensina a condição humana e se compromete com a ética.
 >
-> Este repositório é parte desse ecossistema — a **proposta de captação** que transforma conhecimento científico acumulado em projeto estruturado para editais de fomento. Aqui cada referência é rastreável, cada TRL é honesto, cada linha foi pensada coletivamente.
->
-> Seja bem-vinda, bem-vindo. Há lugar para quem chega com vontade de aprender, contribuir e transformar.
+> 💰 **Este repositório** transforma conhecimento científico acumulado em projeto estruturado para o edital FINEP Mais Inovação — saneamento descentralizado, habitação modular sustentável e bioconstrução com bambu. Cada TRL é honesto, cada referência é rastreável, cada linha foi pensada coletivamente.
 
 ## 🧭 O que é este repositório?
 
@@ -22,27 +20,35 @@ e Moradia Modular Sustentável.
 
 ```mermaid
 flowchart TB
-    subgraph Central["🧠 Central"]
-        AC[("📚 Acervo Científico")]
+    subgraph Central["🧠 Acervo Científico"]
+        AC["📚 Fichas · Resenhas · Perfis<br/>👥 Pesquisadores · Avaliadores<br/>🔗 Lastro científico com DOI"]
     end
-    subgraph Ativos["📋 Projetos"]
-        EC[("🌱 ECOSALA")]
-        VL[("💰 Vaga Lúmen<br/>este repo")]
-        MJ[("🌾 MSTJS")]
+    subgraph Projetos["📋 Projetos Ativos"]
+        EC["🌱 ECOSALA<br/>👥 12 pesquisadores<br/>🔗 Atas · Projetos · Editais"]
+        VL["💰 Vaga Lúmen · este repo<br/>👥 Avaliadores FINEP<br/>🔗 Proposta estruturada"]
+        MJ["🌾 MSTJS<br/>👥 Cooperativas · Comunidades<br/>🔗 Viveiro-Educador"]
     end
-    subgraph Futuro["🔮 Novo"]
-        FM[("🏭 Fábrica Modelo")]
-        NB[("💡 Novos Editais")]
+    subgraph Futuro["🔮 Em Construção"]
+        FM["🏭 Fábrica Modelo<br/>André/Maurílio"]
+        NB["💡 Novos Editais"]
     end
-    AC -->|Referências| EC
-    AC -->|Referências| VL
-    AC -->|Referências| MJ
-    EC -->|Demandas| VL
-    EC -->|Demandas| MJ
-    VL -.->|Sinergia| FM
-    MJ -->|Demanda| NB
-    FM -->|Tecnologias| NB
+    AC -->|"Fornece referências ABNT"| EC
+    AC -->|"Fornece referências ABNT"| VL
+    AC -->|"Fornece referências ABNT"| MJ
+    EC -->|"Demandas"| VL
+    EC -->|"Demandas"| MJ
+    VL -.->|"Sinergia"| FM
+    MJ -->|"Demanda"| NB
+    FM -->|"Tecnologias"| NB
 ```
+
+| Repositório | O que é | Para quem | Relação com os irmãos |
+|---|---|---|---|
+| 📚 **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI | Pesquisadores, avaliadores de editais, orientadores | Fornece lastro científico para todos os projetos |
+| 🌱 **ECOSALA** | Coletivo de 12 pesquisadores: atas, projetos, articulação | Membros do coletivo, parceiros institucionais | Recebe lastro do Acervo; demanda editais para Vaga Lúmen e MSTJS |
+| 💰 **Vaga Lúmen** | Proposta FINEP Mais Inovação: saneamento, habitação, bambu | Avaliadores FINEP, proponente, equipe técnica | Transforma ciência do Acervo em projeto; recebe demandas do ECOSALA |
+| 🌾 **MSTJS** | Viveiro-Educador no Assentamento Mário Lago | Cooperativas, comunidades, financiadores | Ponte entre teoria e chão; capta editais próprios e articula com Fábrica Modelo |
+| 🔮 **Fábrica Modelo** | Prototipagem industrial — em discussão | André Blanco, Maurílio | Recebe sinergia da Vaga Lúmen; alimenta novos editais |
 
 ---
 
@@ -130,12 +136,6 @@ As fichas individuais no repositório de análises científicas foram atualizada
 - **Foco:** Exclusivo para a proposta FINEP
 - **Público:** Avaliadores, financiadores e equipe técnica
 - **Atualização:** README atualizado sempre que um novo documento é adicionado ou o check-list muda
-
-## 🔗 Repositórios irmãos
-
-- **ECOSALA** (coletivo): [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA)
-- **Juventude Solidária** (MST): [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026)
-
 
 ---
 
