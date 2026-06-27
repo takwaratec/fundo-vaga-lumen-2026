@@ -1,5 +1,7 @@
 # 💰 Vaga Lúmen — Proposta FINEP Mais Inovação
 
+> 🌱 **Bem Viver** — Este repositório é parte de um encontro de pensadores, pesquisadores e ativistas que articulam ciência, tecnologia social e saberes populares em torno do **Bem Viver**: a construção de um mundo onde a vida — humana e não-humana — seja o centro das relações econômicas, políticas e culturais. Nossos projetos integram agroecologia, bioconstrução com bambu, saneamento ecológico, bioeconomia amazônica e tecnologias regenerativas, sempre na escuta das comunidades e dos territórios.
+
 ## 🧭 O que é este repositório?
 
 Aqui fica a **proposta completa** para o edital **FINEP Mais Inovação — Rodada 2**
