@@ -9,11 +9,11 @@
 
 | Ficha | Localização | Data |
 |---|---|---|
-| **Embarcações Solares na América do Sul** | `Analises/docs/analyses/ecosala/embarcacoes-solares-sul-america.md` | 25/jun |
-| **Reavaliação TRL com Evidências** | `Analises/docs/analyses/ecosala/reavaliacao-trl-evidencias.md` | 25/jun |
-| **Compósitos Alternativos para Embarcação** | `Analises/docs/analyses/ecosala/compositos-alternativos-embarcacao.md` | 25/jun |
-| **Referências Pirolenhoso + PU + Bioenergia** | `Analises/docs/analyses/ecosala/referencias-pirolenhoso-pu.md` | 24/jun |
-| **Fichas da Equipe ECOSALA (10 membros)** | `Analises/docs/analyses/ecosala/` | 24/jun |
+| **Embarcações Solares na América do Sul** | `Analises/docs/analises/ecosala/embarcacoes-solares-sul-america.md` | 25/jun |
+| **Reavaliação TRL com Evidências** | `Analises/docs/analises/ecosala/reavaliacao-trl-evidencias.md` | 25/jun |
+| **Compósitos Alternativos para Embarcação** | `Analises/docs/analises/ecosala/compositos-alternativos-embarcacao.md` | 25/jun |
+| **Referências Pirolenhoso + PU + Bioenergia** | `Analises/docs/analises/ecosala/referencias-pirolenhoso-pu.md` | 24/jun |
+| **Fichas da Equipe ECOSALA (10 membros)** | `Analises/docs/analises/ecosala/` | 24/jun |
 
 ## Documentos atualizados na proposta
 
@@ -43,5 +43,5 @@ Adicionado à seção de lições aprendidas: preferências do usuário, armadil
 | Plano de Correção | https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/plano-correcao-regulamento/ |
 | Reavaliação TRL | https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/reavaliacao-trl-evidencias/ |
 | Compósitos Alternativos | https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/compositos-alternativos-embarcacao/ |
-| Fichas da Equipe | https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala/ |
-| Embarcações Solares | https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/embarcacoes-solares-sul-america.md |
+| Fichas da Equipe | https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/ecosala/ |
+| Embarcações Solares | https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/embarcacoes-solares-sul-america.md |

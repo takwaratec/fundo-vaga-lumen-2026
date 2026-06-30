@@ -100,7 +100,7 @@ Daniela Maciel (Embrapa), nova integrante do ECOSALA, disponibilizou ferramentas
 | **TerImpact Ex-Ante** | Sistema web de avaliação ex-ante e tramitação de projetos | Metodologia de avaliação de impacto + governança rastreável |
 | **AgroRadarEval** | Diagnóstico visual (radar) da maturidade de gestão | Comprova capacidade do proponente |
 
-📄 Fichas: [TerImpact Ex-Ante](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/ficha-terimpact-exante.md) · [AgroRadarEval](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/ficha-agroradareval.md) · [Perfil Daniela](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/daniela-maciel.md)
+📄 Fichas: [TerImpact Ex-Ante](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-terimpact-exante.md) · [AgroRadarEval](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-agroradareval.md) · [Perfil Daniela](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/daniela-maciel.md)
 
 ---
 
@@ -110,7 +110,7 @@ Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
 👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
 
 ### Fichas individuais dos membros ECOSALA
-[github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
+[github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/ecosala](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/ecosala)
 
 ### Acervo de Pesquisa (protocolos abertos, ensaios, Diquada)
 [github.com/takwaratec/Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia)

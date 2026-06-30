@@ -216,25 +216,25 @@ Ficha técnica: Poliuretano vegetal de mamona (Imperveg). Plataforma Amazônia R
 
 ### Equipe ECOSALA — fichas-resumo (repositório de análises científicas)
 
-PARON, M. E. Ficha — microbiologia, ecoformação. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/marcos-paron.md`
+PARON, M. E. Ficha — microbiologia, ecoformação. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/marcos-paron.md`
 
-BLANCO, A. Ficha — bioarquitetura, geodésicas. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/andre-blanco.md`
+BLANCO, A. Ficha — bioarquitetura, geodésicas. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/andre-blanco.md`
 
-VILELA, G. F. Ficha — produção orgânica, ATER. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/gisele-vilela.md`
+VILELA, G. F. Ficha — produção orgânica, ATER. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/gisele-vilela.md`
 
-SANDO, J. L. Ficha — reforma agrária. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/joaquim-sando.md`
+SANDO, J. L. Ficha — reforma agrária. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/joaquim-sando.md`
 
-SILVA, V. P. B. Ficha — educação do campo, MPTDF. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/vicente-borges.md`
+SILVA, V. P. B. Ficha — educação do campo, MPTDF. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/vicente-borges.md`
 
-PALMA, R. Ficha — saúde pública, PICS. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/raphaela-palma.md`
+PALMA, R. Ficha — saúde pública, PICS. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/raphaela-palma.md`
 
-OKINO, L. Ficha — gestão comunitária. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/luci-okino.md`
+OKINO, L. Ficha — gestão comunitária. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/luci-okino.md`
 
-MIGUEL, M. Ficha — SAFs, mobilização. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/murillo-miguel.md`
+MIGUEL, M. Ficha — SAFs, mobilização. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/murillo-miguel.md`
 
-BUENO, H. Ficha — gestão administrativa. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/henrique-bueno.md`
+BUENO, H. Ficha — gestão administrativa. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/henrique-bueno.md`
 
-ARAUJO, L. F. Ficha — arquitetura, habitação. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/luis-felipe.md`
+ARAUJO, L. F. Ficha — arquitetura, habitação. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/luis-felipe.md`
 
 ### Repositórios de pesquisa de base
 
@@ -260,6 +260,6 @@ MIGUEL, M. et al. Viveiro-Educador Terra Viva. Edital Juventude Solidária 01/20
 ### Pirolenhoso, PU Vegetal e Bioenergia
 
 As referencias completas com DOIs encontram-se no repositorio de analises cientificas:
-`github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/referencias-pirolenhoso-pu.md`
+`github.com/takwaratec/Analises-e-escrita-cientifica/docs/analises/ecosala/referencias-pirolenhoso-pu.md`
 
 Inclui 13 artigos com DOI sobre: acido pirolenhoso (Embrapa, Japao, Coreia, Europa), PU vegetal de mamona (USP Sao Carlos, intl.), biochar e briquetes para bioenergia e sequestro de carbono.
